@@ -1,0 +1,2 @@
+zkAddr=localhost:2181
+zkHome=/usr/local/zookeeper
